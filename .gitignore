@@ -1,0 +1,11 @@
+# PostgreSQL Drivers
+jdbc_drivers/
+
+# Dataset files
+raw_data/
+
+# Credentials
+.env
+
+# Infographics
+john_quincy.png
