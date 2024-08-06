@@ -1,7 +1,5 @@
 # Data Extraction, Cleaning, Transformation, and Loading of Olympics History Data
 
-<img src="https://media.licdn.com/dms/image/D4D03AQEnxU1bGqE73Q/profile-displayphoto-shrink_400_400/0/1678754238733?e=1722470400&v=beta&t=Kw7qF2f0hppi8H-VNTFkrWpXl0R1odG2lUuQc0e6kd4" alt="Profile" width="100" height="45" style="float: left; margin-right: 10px;">
-
 ## By: Carlos Varela
 
 ## Introduction
